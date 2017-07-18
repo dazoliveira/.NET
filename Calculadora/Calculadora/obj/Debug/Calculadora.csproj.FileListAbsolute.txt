@@ -1,0 +1,8 @@
+C:\Users\doliveira\Desktop\VS2015\workspace\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\doliveira\Desktop\VS2015\workspace\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\doliveira\Desktop\VS2015\workspace\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\doliveira\Desktop\VS2015\workspace\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\doliveira\Desktop\VS2015\workspace\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\doliveira\Desktop\VS2015\workspace\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+C:\Users\doliveira\Desktop\VS2015\workspace\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\doliveira\Desktop\VS2015\workspace\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
