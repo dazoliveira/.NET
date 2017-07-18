@@ -1,0 +1,11 @@
+C:\Users\doliveira\Desktop\VS2015\workspace\Agenda\Agenda\bin\Debug\Agenda.exe.config
+C:\Users\doliveira\Desktop\VS2015\workspace\Agenda\Agenda\bin\Debug\Agenda.exe
+C:\Users\doliveira\Desktop\VS2015\workspace\Agenda\Agenda\bin\Debug\Agenda.pdb
+C:\Users\doliveira\Desktop\VS2015\workspace\Agenda\Agenda\obj\Debug\Agenda.Properties.Resources.resources
+C:\Users\doliveira\Desktop\VS2015\workspace\Agenda\Agenda\obj\Debug\Agenda.csproj.GenerateResource.Cache
+C:\Users\doliveira\Desktop\VS2015\workspace\Agenda\Agenda\obj\Debug\Agenda.exe
+C:\Users\doliveira\Desktop\VS2015\workspace\Agenda\Agenda\obj\Debug\Agenda.pdb
+C:\Users\doliveira\Desktop\VS2015\workspace\Agenda\Agenda\obj\Debug\Agenda.frm_agenda.resources
+C:\Users\doliveira\Desktop\VS2015\workspace\Agenda\Agenda\obj\Debug\Agenda.frmInserirEditar.resources
+C:\Users\doliveira\Desktop\VS2015\workspace\Agenda\Agenda\obj\Debug\Agenda.frmTexto.resources
+C:\Users\doliveira\Desktop\VS2015\workspace\Agenda\Agenda\obj\Debug\Agenda.frmResultados.resources
